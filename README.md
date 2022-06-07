@@ -1,6 +1,6 @@
 ## Default colors from Wakfu 1.75.4
 
-All colors from "theme.json" are converted to hex. (RGB values work too)
+All colors from "theme.json" converted to hex. (RGB values work too)
 
 This will help speed up the creation of the theme.
 
