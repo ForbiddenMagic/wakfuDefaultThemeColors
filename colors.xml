@@ -9,8 +9,8 @@
 	<color id="defaultDarkColor" color="#492b11"/> 
 	<color id="defaultDarkGreyColor" color="#605456"/> 
 	<color id="windowBackgroundColor" color="#ffffff"/> 
-	<color id="tooltipBackgroundColor" color="#f2443a19"/> <!-- alpha:95 -->
-	<color id="tooltipBorderColor" color="#cc776d4c"/> <!-- alpha:80 -->
+	<color id="tooltipBackgroundColor" color="#443a19"/> <!-- alpha:95 -->
+	<color id="tooltipBorderColor" color="#776d4c"/> <!-- alpha:80 -->
 	<color id="defaultDisabledColor" color="#999999"/> 
 	<color id="popupInformationColor" color="#a9a9a9"/> 
 	<color id="greyColor" color="#7f7f7f"/> 
@@ -27,7 +27,7 @@
 	<color id="redColor" color="#e50f0f"/> 
 	<color id="lightRedColor" color="#d83f3f"/> 
 	<color id="greenColor" color="#0fe50f"/> 
-	<color id="orangeTransColor" color="#ccf7890a"/> <!-- alpha:80 -->
+	<color id="orangeTransColor" color="#f7890a"/> <!-- alpha:80 -->
 	<color id="whiteColor" color="#ffffff"/> 
 	<color id="xpColor" color="#00837f"/> 
 	<color id="xpColorCompanion" color="#00a9a5"/> 
@@ -62,18 +62,18 @@
 	<color id="oddCellColor" color="#728482"/> 
 	<color id="evenCellColor" color="#5e706d"/> 
 	<color id="selectedCellColor" color="#a3b2b2"/> 
-	<color id="mouseOverCellColor" color="#80ffffff"/> <!-- alpha:50 -->
+	<color id="mouseOverCellColor" color="#ffffff"/> <!-- alpha:50 -->
 	<color id="detailedCellColor" color="#3f5456"/> 
-	<color id="darkOddCellColor" color="#00000000"/> <!-- alpha:0 -->
-	<color id="darkEvenCellColor" color="#66756d5b"/> <!-- alpha:40 -->
+	<color id="darkOddCellColor" color="#000000"/> <!-- alpha:0 -->
+	<color id="darkEvenCellColor" color="#756d5b"/> <!-- alpha:40 -->
 	<color id="darkSelectedCellColor" color="#756d5b"/> 
-	<color id="darkMouseOverCellColor" color="#cc756d5b"/> <!-- alpha:80 -->
-	<color id="scrollOddCellColor" color="#1a000000"/> <!-- alpha:10 -->
-	<color id="scrollEvenCellColor" color="#00000000"/> <!-- alpha:0 -->
-	<color id="scrollSelectedCellColor" color="#00000000"/> <!-- alpha:0 -->
-	<color id="scrollMouseOverCellColor" color="#00000000"/> <!-- alpha:0 -->
+	<color id="darkMouseOverCellColor" color="#756d5b"/> <!-- alpha:80 -->
+	<color id="scrollOddCellColor" color="#000000"/> <!-- alpha:10 -->
+	<color id="scrollEvenCellColor" color="#000000"/> <!-- alpha:0 -->
+	<color id="scrollSelectedCellColor" color="#000000"/> <!-- alpha:0 -->
+	<color id="scrollMouseOverCellColor" color="#000000"/> <!-- alpha:0 -->
 	<color id="tableCellBorderColor" color="#477c70"/> 
-	<color id="textDarkTextEditorColor" color="#cce5ddcc"/> <!-- alpha:80 -->
+	<color id="textDarkTextEditorColor" color="#e5ddcc"/> <!-- alpha:80 -->
 	<color id="selectionDarkTextEditorColor" color="#e5e5e5"/>
 	<color id="chalkboardBackgroundColor" color="#234235"/>
 	<color id="chalkboardBorderColor" color="#477c70"/>
@@ -83,10 +83,10 @@
 	<color id="fleaOddCellColor" color="#8c9191"/>
 	<color id="enabledHeroSlotColor" color="#e5cc33"/>
 	<color id="disabledHeroSlotColor" color="#ffffff"/>
-	<color id="heroGradientFirstColor" color="#bfe5e533"/> <!-- alpha:75 -->
-	<color id="heroGradientSecondColor" color="#d9cc9933"/> <!-- alpha:85 -->
-	<color id="companionGradientFirstColor" color="#1a000000"/> <!-- alpha:10 -->
-	<color id="companionGradientSecondColor" color="#40000000"/> <!-- alpha:25 -->
+	<color id="heroGradientFirstColor" color="#e5e533"/> <!-- alpha:75 -->
+	<color id="heroGradientSecondColor" color="#cc9933"/> <!-- alpha:85 -->
+	<color id="companionGradientFirstColor" color="#000000"/> <!-- alpha:10 -->
+	<color id="companionGradientSecondColor" color="#000000"/> <!-- alpha:25 -->
 	<color id="listFilterColor" color="#b7c9d3"/>
 	<color id="questObjectiveColor" color="#c9f959"/>
 	<color id="informationMessageTitleColor" color="#efcc0a"/>
