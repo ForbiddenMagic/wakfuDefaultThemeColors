@@ -5,7 +5,8 @@ This will help speed up the creation of the theme.
 
 https://www.wakfu.com/en/forum/332-development/241635-ui-modding-tutorial
 
-Hex transparancy
+4th value of hex is aplha (example: #FFFFFF**40** - is 25% transparent)
+**Hex transparancy values**
 | %    | Hex |
 |------|-----|
 | 100% | FF  |
