@@ -1,103 +1,103 @@
 <colors>
-		<color id="defaultLightColor" color="#ffffff"/> 
-		<color id="defaultLightGoldColor" color="#f2a33f"/> 
-		<color id="defaultIntenseGoldColor" color="#ffc626"/> 
-		<color id="pressedLightColor" color="#b2b299"/> 
-		<color id="defaultBlackColor" color="#191919"/> 
-		<color id="blackColor" color="#000000"/> 
-		<color id="pressedBlackColor" color="#b2b2b2"/> 
-		<color id="defaultDarkColor" color="#492b11"/> 
-		<color id="defaultDarkGreyColor" color="#605456"/> 
-		<color id="windowBackgroundColor" color="#ffffff"/> 
-		<color id="tooltipBackgroundColor" color="#443a19"/> <!-- alpha:95 -->
-		<color id="tooltipBorderColor" color="#776d4c"/> <!-- alpha:80 -->
-		<color id="defaultDisabledColor" color="#999999"/> 
-		<color id="popupInformationColor" color="#a9a9a9"/> 
-		<color id="greyColor" color="#7f7f7f"/> 
-		<color id="HPColor" color="#cb0000"/> 
-		<color id="APColor" color="#003265"/> 
-		<color id="MPColor" color="#4a5d00"/> 
-		<color id="WPColor" color="#27b68e"/> 
-		<color id="QBColor" color="#ffba00"/> 
-		<color id="APLightColor" color="#00aeea"/> 
-		<color id="MPLightColor" color="#00b400"/> 
-		<color id="WPLightColor" color="#27b68e"/> 
-		<color id="playerTeamHPColor" color="#3333cc"/> 
-		<color id="enemyTeamHPColor" color="#cb0000"/> 
-		<color id="redColor" color="#e50f0f"/> 
-		<color id="lightRedColor" color="#d83f3f"/> 
-		<color id="greenColor" color="#0fe50f"/> 
-		<color id="orangeTransColor" color="#f7890a"/> <!-- alpha:80 -->
-		<color id="whiteColor" color="#ffffff"/> 
-		<color id="xpColor" color="#00837f"/> 
-		<color id="xpColorCompanion" color="#00a9a5"/> 
-		<color id="ogrestColor" color="#2da8a0"/> 
-		<color id="protectorColor" color="#fcb223"/> 
-		<color id="wakfuColor" color="#47dbd3"/> 
-		<color id="wakfuBarColor" color="#4c4c4c"/> 
-		<color id="xpUnpenalizedColor" color="#ff0000"/> 
-		<color id="xpPremiumColor" color="#ffba00"/> 
-		<color id="levelColor" color="#936900"/> 
-		<color id="commonItemColor" color="#787b7a"/> 
-		<color id="unusualItemColor" color="#ffffff"/> 
-		<color id="rareItemColor" color="#009b00"/> 
-		<color id="mythicItemColor" color="#ff9900"/> 
-		<color id="legendaryItemColor" color="#ffff00"/> 
-		<color id="adminItemColor" color="#ff0000"/> 
-		<color id="errorColor" color="#cc1919"/> 
-		<color id="redInvalidBuildColor" color="#e5190f"/> 
-		<color id="greyInvalidColor" color="#929594"/> 
-		<color id="mecanicBlueColor" color="#51636b"/> 
-		<color id="mecanicLightBlueColor" color="#aad6d3"/> 
-		<color id="mecanicDarkBlueColor" color="#33444c"/> 
-		<color id="scrollFleshColor" color="#efdba8"/> 
-		<color id="progressBarDefaultColor" color="#e5e5e5"/> 
-		<color id="yellowScoreColor" color="#efe83d"/> 
-		<color id="scrollYellowColor" color="#eacc6b"/> 
-		<color id="loadingWheelColor" color="#e8e5e2"/> 
-		<color id="loadingTextColor" color="#bfbfbf"/> 
-		<color id="loginGradientColor" color="#e5dace"/> 
-		<color id="fightReportOddCellColor" color="#efedea"/> 
-		<color id="fightReportEvenCellColor" color="#dbd6d1"/> 
-		<color id="oddCellColor" color="#728482"/> 
-		<color id="evenCellColor" color="#5e706d"/> 
-		<color id="selectedCellColor" color="#a3b2b2"/> 
-		<color id="mouseOverCellColor" color="#ffffff"/> <!-- alpha:50 -->
-		<color id="detailedCellColor" color="#3f5456"/> 
-		<color id="darkOddCellColor" color="#000000"/> <!-- alpha:0 -->
-		<color id="darkEvenCellColor" color="#756d5b"/> <!-- alpha:40 -->
-		<color id="darkSelectedCellColor" color="#756d5b"/> 
-		<color id="darkMouseOverCellColor" color="#756d5b"/> <!-- alpha:80 -->
-		<color id="scrollOddCellColor" color="#000000"/> <!-- alpha:10 -->
-		<color id="scrollEvenCellColor" color="#000000"/> <!-- alpha:0 -->
-		<color id="scrollSelectedCellColor" color="#000000"/> <!-- alpha:0 -->
-		<color id="scrollMouseOverCellColor" color="#000000"/> <!-- alpha:0 -->
-		<color id="tableCellBorderColor" color="#477c70"/> 
-		<color id="textDarkTextEditorColor" color="#e5ddcc"/> <!-- alpha:80 -->
-		<color id="selectionDarkTextEditorColor" color="#e5e5e5"/>
-		<color id="chalkboardBackgroundColor" color="#234235"/>
-		<color id="chalkboardBorderColor" color="#477c70"/>
-		<color id="previewButtonBorderColor" color="#3d9991"/>
-		<color id="descriptionPopupColor" color="#f9c400"/>
-		<color id="fleaEvenCellColor" color="#6d7777"/>
-		<color id="fleaOddCellColor" color="#8c9191"/>
-		<color id="enabledHeroSlotColor" color="#e5cc33"/>
-		<color id="disabledHeroSlotColor" color="#ffffff"/>
-		<color id="heroGradientFirstColor" color="#e5e533"/> <!-- alpha:75 -->
-		<color id="heroGradientSecondColor" color="#cc9933"/> <!-- alpha:85 -->
-		<color id="companionGradientFirstColor" color="#000000"/> <!-- alpha:10 -->
-		<color id="companionGradientSecondColor" color="#000000"/> <!-- alpha:25 -->
-		<color id="listFilterColor" color="#b7c9d3"/>
-		<color id="questObjectiveColor" color="#c9f959"/>
-		<color id="informationMessageTitleColor" color="#efcc0a"/>
-		<color id="spellDeckHighlightColor" color="#ffdd00"/>
-		<color id="craftActionProgressBarColor" color="#60ffea"/>
-		<color id="craftBackgroundProgressBarColor" color="#6d6b5e"/>
-		<color id="passportTitleColor" color="#ffe5bf"/>
-		<color id="scrollTitleBackgroundColor" color="#4c3f1e"/>
-		<color id="dungeonLadderRankingColor" color="#3f898c"/>
-		<color id="dungeonLadderNoRankColor" color="#337a7c"/>
-		<color id="gainLaurelLawColor" color="#d1f951"/>
-		<color id="lossLaurelLawColor" color="#fc491c"/>
-		<color id="backgroundBookColor" color="#492b11"/>
+	<color id="defaultLightColor" color="#ffffff"/> 
+	<color id="defaultLightGoldColor" color="#f2a33f"/> 
+	<color id="defaultIntenseGoldColor" color="#ffc626"/> 
+	<color id="pressedLightColor" color="#b2b299"/> 
+	<color id="defaultBlackColor" color="#191919"/> 
+	<color id="blackColor" color="#000000"/> 
+	<color id="pressedBlackColor" color="#b2b2b2"/> 
+	<color id="defaultDarkColor" color="#492b11"/> 
+	<color id="defaultDarkGreyColor" color="#605456"/> 
+	<color id="windowBackgroundColor" color="#ffffff"/> 
+	<color id="tooltipBackgroundColor" color="#f2443a19"/> <!-- alpha:95 -->
+	<color id="tooltipBorderColor" color="#cc776d4c"/> <!-- alpha:80 -->
+	<color id="defaultDisabledColor" color="#999999"/> 
+	<color id="popupInformationColor" color="#a9a9a9"/> 
+	<color id="greyColor" color="#7f7f7f"/> 
+	<color id="HPColor" color="#cb0000"/> 
+	<color id="APColor" color="#003265"/> 
+	<color id="MPColor" color="#4a5d00"/> 
+	<color id="WPColor" color="#27b68e"/> 
+	<color id="QBColor" color="#ffba00"/> 
+	<color id="APLightColor" color="#00aeea"/> 
+	<color id="MPLightColor" color="#00b400"/> 
+	<color id="WPLightColor" color="#27b68e"/> 
+	<color id="playerTeamHPColor" color="#3333cc"/> 
+	<color id="enemyTeamHPColor" color="#cb0000"/> 
+	<color id="redColor" color="#e50f0f"/> 
+	<color id="lightRedColor" color="#d83f3f"/> 
+	<color id="greenColor" color="#0fe50f"/> 
+	<color id="orangeTransColor" color="#ccf7890a"/> <!-- alpha:80 -->
+	<color id="whiteColor" color="#ffffff"/> 
+	<color id="xpColor" color="#00837f"/> 
+	<color id="xpColorCompanion" color="#00a9a5"/> 
+	<color id="ogrestColor" color="#2da8a0"/> 
+	<color id="protectorColor" color="#fcb223"/> 
+	<color id="wakfuColor" color="#47dbd3"/> 
+	<color id="wakfuBarColor" color="#4c4c4c"/> 
+	<color id="xpUnpenalizedColor" color="#ff0000"/> 
+	<color id="xpPremiumColor" color="#ffba00"/> 
+	<color id="levelColor" color="#936900"/> 
+	<color id="commonItemColor" color="#787b7a"/> 
+	<color id="unusualItemColor" color="#ffffff"/> 
+	<color id="rareItemColor" color="#009b00"/> 
+	<color id="mythicItemColor" color="#ff9900"/> 
+	<color id="legendaryItemColor" color="#ffff00"/> 
+	<color id="adminItemColor" color="#ff0000"/> 
+	<color id="errorColor" color="#cc1919"/> 
+	<color id="redInvalidBuildColor" color="#e5190f"/> 
+	<color id="greyInvalidColor" color="#929594"/> 
+	<color id="mecanicBlueColor" color="#51636b"/> 
+	<color id="mecanicLightBlueColor" color="#aad6d3"/> 
+	<color id="mecanicDarkBlueColor" color="#33444c"/> 
+	<color id="scrollFleshColor" color="#efdba8"/> 
+	<color id="progressBarDefaultColor" color="#e5e5e5"/> 
+	<color id="yellowScoreColor" color="#efe83d"/> 
+	<color id="scrollYellowColor" color="#eacc6b"/> 
+	<color id="loadingWheelColor" color="#e8e5e2"/> 
+	<color id="loadingTextColor" color="#bfbfbf"/> 
+	<color id="loginGradientColor" color="#e5dace"/> 
+	<color id="fightReportOddCellColor" color="#efedea"/> 
+	<color id="fightReportEvenCellColor" color="#dbd6d1"/> 
+	<color id="oddCellColor" color="#728482"/> 
+	<color id="evenCellColor" color="#5e706d"/> 
+	<color id="selectedCellColor" color="#a3b2b2"/> 
+	<color id="mouseOverCellColor" color="#80ffffff"/> <!-- alpha:50 -->
+	<color id="detailedCellColor" color="#3f5456"/> 
+	<color id="darkOddCellColor" color="#00000000"/> <!-- alpha:0 -->
+	<color id="darkEvenCellColor" color="#66756d5b"/> <!-- alpha:40 -->
+	<color id="darkSelectedCellColor" color="#756d5b"/> 
+	<color id="darkMouseOverCellColor" color="#cc756d5b"/> <!-- alpha:80 -->
+	<color id="scrollOddCellColor" color="#1a000000"/> <!-- alpha:10 -->
+	<color id="scrollEvenCellColor" color="#00000000"/> <!-- alpha:0 -->
+	<color id="scrollSelectedCellColor" color="#00000000"/> <!-- alpha:0 -->
+	<color id="scrollMouseOverCellColor" color="#00000000"/> <!-- alpha:0 -->
+	<color id="tableCellBorderColor" color="#477c70"/> 
+	<color id="textDarkTextEditorColor" color="#cce5ddcc"/> <!-- alpha:80 -->
+	<color id="selectionDarkTextEditorColor" color="#e5e5e5"/>
+	<color id="chalkboardBackgroundColor" color="#234235"/>
+	<color id="chalkboardBorderColor" color="#477c70"/>
+	<color id="previewButtonBorderColor" color="#3d9991"/>
+	<color id="descriptionPopupColor" color="#f9c400"/>
+	<color id="fleaEvenCellColor" color="#6d7777"/>
+	<color id="fleaOddCellColor" color="#8c9191"/>
+	<color id="enabledHeroSlotColor" color="#e5cc33"/>
+	<color id="disabledHeroSlotColor" color="#ffffff"/>
+	<color id="heroGradientFirstColor" color="#bfe5e533"/> <!-- alpha:75 -->
+	<color id="heroGradientSecondColor" color="#d9cc9933"/> <!-- alpha:85 -->
+	<color id="companionGradientFirstColor" color="#1a000000"/> <!-- alpha:10 -->
+	<color id="companionGradientSecondColor" color="#40000000"/> <!-- alpha:25 -->
+	<color id="listFilterColor" color="#b7c9d3"/>
+	<color id="questObjectiveColor" color="#c9f959"/>
+	<color id="informationMessageTitleColor" color="#efcc0a"/>
+	<color id="spellDeckHighlightColor" color="#ffdd00"/>
+	<color id="craftActionProgressBarColor" color="#60ffea"/>
+	<color id="craftBackgroundProgressBarColor" color="#6d6b5e"/>
+	<color id="passportTitleColor" color="#ffe5bf"/>
+	<color id="scrollTitleBackgroundColor" color="#4c3f1e"/>
+	<color id="dungeonLadderRankingColor" color="#3f898c"/>
+	<color id="dungeonLadderNoRankColor" color="#337a7c"/>
+	<color id="gainLaurelLawColor" color="#d1f951"/>
+	<color id="lossLaurelLawColor" color="#fc491c"/>
+	<color id="backgroundBookColor" color="#492b11"/>
 </colors>
